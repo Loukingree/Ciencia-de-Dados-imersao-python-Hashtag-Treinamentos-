@@ -9,4 +9,5 @@ e 30% para a bateria de Testes.
 - Jupyter Notebook
 - Anaconda 3 (python 3.11)
 - VSCode Desktop
+- Pandas
 - Modelos de IA: KNeighbors_Classifier, RandomForestClassifier
