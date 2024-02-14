@@ -1,4 +1,4 @@
-# Ciência de Dados com Python (pyautogui)
+# Ciência de Dados com Python (IA)
 Projeto de Ciência de Dados com Python: Utilizamos uma base de dados .xlsx com informações de clientes (dados pessoais e score de crédito); Dividimos a Base em 70% para Treinamento dos modelos de IA
 e 30% para a bateria de Testes.
 
